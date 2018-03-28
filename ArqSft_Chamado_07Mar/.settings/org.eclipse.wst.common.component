@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ArqSft_Chamado_07Mar">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="ArqSft_Chamado_07Mar"/>
+        <property name="java-output-path" value="/ArqSft_Chamado_07Mar/build/classes"/>
+    </wb-module>
+</project-modules>
